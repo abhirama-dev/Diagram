@@ -156,7 +156,7 @@
         <mxCell id="2WfejjlfhKgOtl5ROFX9-13" value="Mengisi email dan password akun" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" vertex="1" parent="2WfejjlfhKgOtl5ROFX9-30">
           <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2WfejjlfhKgOtl5ROFX9-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="2WfejjlfhKgOtl5ROFX9-30" source="2WfejjlfhKgOtl5ROFX9-13" target="2WfejjlfhKgOtl5ROFX9-15">
+        <mxCell id="2WfejjlfhKgOtl5ROFX9-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="2WfejjlfhKgOtl5ROFX9-30" source="2WfejjlfhKgOtl5ROFX9-13" target="2WfejjlfhKgOtl5ROFX9-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="570" as="sourcePoint" />
             <mxPoint x="380" y="570" as="targetPoint" />
