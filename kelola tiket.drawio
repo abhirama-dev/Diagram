@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
   <diagram name="Halaman-1" id="URK2k3WMQm116mticsIn">
-    <mxGraphModel>
+    <mxGraphModel dx="864" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="APr7CuqteU8gshytaZwF-1" value="Petugas" style="swimlane;whiteSpace=wrap;html=1;fillColor=default;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="240" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="APr7CuqteU8gshytaZwF-2" value="Machine E-Learning" style="swimlane;whiteSpace=wrap;html=1;fillColor=default;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="480" height="800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
