@@ -13,6 +13,15 @@
         <mxCell id="APr7CuqteU8gshytaZwF-37" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="APr7CuqteU8gshytaZwF-2">
           <mxGeometry x="199" y="370" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="APr7CuqteU8gshytaZwF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="APr7CuqteU8gshytaZwF-2" source="APr7CuqteU8gshytaZwF-44" target="APr7CuqteU8gshytaZwF-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="APr7CuqteU8gshytaZwF-44" value="Menampilkan menu kelola tiket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="APr7CuqteU8gshytaZwF-2">
+          <mxGeometry x="100" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APr7CuqteU8gshytaZwF-45" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="APr7CuqteU8gshytaZwF-2">
+          <mxGeometry x="120" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="APr7CuqteU8gshytaZwF-1" value="Petugas" style="swimlane;whiteSpace=wrap;html=1;fillColor=default;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="240" height="800" as="geometry" />
         </mxCell>
@@ -94,8 +103,29 @@
             <mxPoint x="150" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="APr7CuqteU8gshytaZwF-39" value="Memilih menu kelola tiket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="APr7CuqteU8gshytaZwF-1">
+          <mxGeometry x="60" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APr7CuqteU8gshytaZwF-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="APr7CuqteU8gshytaZwF-1" source="APr7CuqteU8gshytaZwF-23" target="APr7CuqteU8gshytaZwF-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="510" as="sourcePoint" />
+            <mxPoint x="200" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="APr7CuqteU8gshytaZwF-3" value="Admin Kelola Tiket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="40" y="48" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APr7CuqteU8gshytaZwF-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="APr7CuqteU8gshytaZwF-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="590" as="sourcePoint" />
+            <mxPoint x="160" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="APr7CuqteU8gshytaZwF-43" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" edge="1" parent="1" target="APr7CuqteU8gshytaZwF-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="630" as="sourcePoint" />
+            <mxPoint x="400" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
