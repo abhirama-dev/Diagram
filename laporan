@@ -142,7 +142,7 @@
             <mxPoint x="500" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gAleYde68Rx0eJWoyCe9-39" value="Admin Mengelola Laporan dan Tiket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=light-dark(#000000,#000000);fillColor=none;fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+        <mxCell id="gAleYde68Rx0eJWoyCe9-39" value="Admin Mengelola Laporan dan Tiket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
           <mxGeometry x="40" y="10" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gAleYde68Rx0eJWoyCe9-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" parent="1" source="gAleYde68Rx0eJWoyCe9-22" target="gAleYde68Rx0eJWoyCe9-41" edge="1">
